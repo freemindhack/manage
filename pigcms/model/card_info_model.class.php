@@ -1,0 +1,1 @@
+<?php bpBase::loadSysClass('model', '', 0);class card_info_model extends model {public function __construct() {$this->table_name = 'card_info';parent::__construct();}} ?>

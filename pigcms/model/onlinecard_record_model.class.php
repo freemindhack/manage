@@ -1,0 +1,1 @@
+<?php bpBase::loadSysClass('model', '', 0);class onlinecard_record_model extends model {public function __construct() {$this->table_name = 'onlinecard_record';parent::__construct();}} ?>

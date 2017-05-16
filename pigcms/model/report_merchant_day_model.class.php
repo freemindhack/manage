@@ -1,0 +1,1 @@
+<?php bpBase::loadSysClass('model', '', 0);class report_merchant_day_model extends model {public function __construct() {$this->table_name = 'report_merchant_day';parent::__construct();}} ?>

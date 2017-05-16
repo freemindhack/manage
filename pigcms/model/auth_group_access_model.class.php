@@ -1,0 +1,1 @@
+<?php bpBase::loadSysClass('model', '', 0);class auth_group_access_model extends model {public function __construct() {$this->table_name = 'auth_group_access';parent::__construct();}} ?>

@@ -1,0 +1,1 @@
+<?php bpBase::loadSysClass('model', '', 0);class order_paytype_model extends model {public function __construct() {$this->table_name = 'order_paytype';parent::__construct();}} ?>

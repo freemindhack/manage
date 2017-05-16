@@ -1,0 +1,1 @@
+<?php bpBase::loadSysClass('model', '', 0);class contract_model extends model {public function __construct() {$this->table_name = 'contract';parent::__construct();}} ?>

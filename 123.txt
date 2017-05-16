@@ -1,0 +1,1 @@
+[{"Sid":"9BA3AE0A-0BE4-47F5-8302-50D74DBD1269","CardNo":"67000256","Type":"1","Amount":"10.0","LastAmount":"0.0","Change":"20.0","CreateTime":"2017-02-23 11:33:47","SYJ":"1111111","SYY":"001","XPH":"1702230007","YJ":"10.0","Status":"0","ShiShou":"50.0","ZhaoLin":"30.0","PayType":"0","onlinePayInfo":"(null)","cardUid":"0000"}]
